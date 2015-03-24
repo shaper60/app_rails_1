@@ -9,3 +9,6 @@ script: bundle exec rspec
 branches:
   only:
     - master
+addons:
+    code_climate:
+        repo_token: 35b38fff6acc2de67bba7398ef57650b47e05558b4a66af82b1049e17a3b5b5f
