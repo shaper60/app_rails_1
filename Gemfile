@@ -5,6 +5,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.0'
 gem 'bootstrap-sass', '2.3.2.0'
 gem 'sprockets'
+gem 'bcrypt-ruby'
 group :test do
 	gem 'selenium-webdriver'
 	gem 'capybara'
